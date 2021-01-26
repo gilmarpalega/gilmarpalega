@@ -5,6 +5,8 @@
 - Past experience on python, C, asm, java, php, delphi, clipper
 - Javascript
 - 🎵 🎸Rock'n'Roll & 🤘Metal 🎵
+
+![Gil's github stats](https://github-readme-stats.vercel.app/api?username=gilmarpalega)
 <!--
 ![GOing](https://raw.githubusercontent.com/egonelbre/gophers/master/vector/fairy-tale/witch-learning.svg)
 -->
