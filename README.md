@@ -13,8 +13,6 @@
 ![GOing](https://raw.githubusercontent.com/egonelbre/gophers/master/vector/fairy-tale/witch-learning.svg)
 -->
 
-
-
 <!--
 **gilmarpalega/gilmarpalega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
