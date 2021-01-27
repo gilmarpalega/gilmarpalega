@@ -4,6 +4,7 @@
 
 - Past experience on python, C, asm, java, php, delphi, clipper
 - Javascript
+- Mechatronics
 - 🎵 🎸Rock'n'Roll & 🤘Metal 🎵
 <!--
 ![Gil's github stats](https://github-readme-stats.vercel.app/api?username=gilmarpalega&count_private=true)
