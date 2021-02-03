@@ -1,6 +1,6 @@
 ![GOing](https://raw.githubusercontent.com/gilmarpalega/gilmarpalega/main/img/gopher.gif)
 
-![gopher](https://raw.githubusercontent.com/gilmarpalega/gilmarpalega/main/img/gopher-wink.png) Golang developer
+![gopher](https://raw.githubusercontent.com/gilmarpalega/gilmarpalega/main/img/gopher-wink.png) Senior golang developer
 
 - Past experience on python, C, asm, java, php, delphi, clipper
 - Javascript
